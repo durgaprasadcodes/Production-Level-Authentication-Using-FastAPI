@@ -1,4 +1,4 @@
-# Production-Grade Authentication System
+# 🫆 Production-Grade Authentication System
 
 A production-oriented authentication system built incrementally using:
 
